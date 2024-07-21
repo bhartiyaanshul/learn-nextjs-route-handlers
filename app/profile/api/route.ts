@@ -1,3 +1,3 @@
 export async function GET() {
-    return new Response("Profile API data")
+    return new Response("GET handler")
 }
